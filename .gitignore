@@ -1,0 +1,30 @@
+# Archivos del sistema
+.DS_Store
+
+# Notebooks temporales
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Salidas de Jupyter o Plotly
+*.html
+*.png
+
+# Archivos grandes o temporales
+*.zip
+*.7z
+*.tar
+*.log
+
+# Archivos de configuración personales
+*.swp
+*.swo
+*.bak
+
+# Configuración IDE (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
